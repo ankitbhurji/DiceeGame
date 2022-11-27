@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(232, 228, 228);
+}
+
+.header{
+  font-weight: 900;
+  color: coral;
+  font-size: 70px;
+  font-family: cursive;
+}
+
+#player{
+  color: rgb(102, 18, 89);
+  font-size: 50px;
+  font-family: cursive;
+}
+
+
+
